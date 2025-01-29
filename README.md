@@ -1,2 +1,14 @@
 # UgaHacksX
-UGA's 2025 Hackathon team consisting of Igor Goncalves, Ryan Meyer, Daniel Matthew, and Jordan Delp.
+UGA's 2025 Hackathon
+
+Team Members 
+- Igor Goncalves | role
+- Ryan Meyer | role
+- Daniel Matthew | role
+- Jordan Delp | role
+
+Concept
+- REDACTED
+
+Extra Info
+- REDACTED
