@@ -10,5 +10,12 @@ Team Members
 Concept
 - REDACTED
 
-Extra Info
+Stack
+- Frontend: React, Audio.js
+- Backend: Flask
+- Database: SQLite
+- AI Tools: WhisperAPI, T5/BART
+- Deployment: PWA
+
+Description:
 - REDACTED
