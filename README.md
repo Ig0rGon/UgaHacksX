@@ -10,6 +10,9 @@ Team Members
 Stack
 * REDACTED
 
+Project Name:
+* REDACTED
+
 Concept
 * REDACTED
 
